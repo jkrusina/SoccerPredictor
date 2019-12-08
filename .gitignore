@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+__pycache__/
+soccerpredictor/__pycache__/
+soccerpredictor/*/__pycache__/
