@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 .idea/
-__pycache__/
 soccerpredictor/__pycache__/
 soccerpredictor/*/__pycache__/
+soccerpredictor/data/db/*
