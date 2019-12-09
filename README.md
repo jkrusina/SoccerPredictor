@@ -13,7 +13,7 @@ Please, refer to accompanying [blog post](https://jkrusina.github.io/blog/predic
 ## Results
 Best result achieved was profit `1069 %` with prediction accuracy around `90 %` and ROI `33.4 %` over the tested period. Timespan of the tested period was 113 days with betting on 32 out of 150 matches totally played.
 
-[![Result](https://jkrusina.github.io/images/backtest_model_2018-01-20-2018-05-13_11.png)](/data/imgs/backtest_model_2018-01-20-2018-05-13_11.png)
+[![Result](https://jkrusina.github.io/images/backtest_model_2018-01-20-2018-05-13_11.png)](https://jkrusina.github.io/images/backtest_model_2018-01-20-2018-05-13_11.png)
 
 ## Installation
 Running the program requires manual installation, e.g.:
